@@ -86,7 +86,7 @@ sudo service apache2 restart
 # default-storage-engine = innodb
 # character-set-server = utf8
 
-# Edit Config and add below settings /etc/php5/php.ini
+# Edit Config and add below settings /etc/php5/apache2/php.ini
 # display_errors = On
 # max_execution_time = 300
 # post_max_size = 128M
